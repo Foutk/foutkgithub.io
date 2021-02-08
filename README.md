@@ -1,2 +1,2 @@
-# foutkgithub.io
+# foutk.github.io
 waxom
